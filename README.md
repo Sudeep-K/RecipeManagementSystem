@@ -50,3 +50,6 @@ projectRecipe.exe
 <a href="https://github.com/sunlightwings">
   <img src="https://github.com/sunlightwings.png?size=50">
 </a>
+<a href="https://github.com/pratigya2">
+  <img src="https://github.com/pratigya2.png?size=50">
+</a>
